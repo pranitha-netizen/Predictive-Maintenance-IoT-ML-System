@@ -1,0 +1,6 @@
+{
+  "name": "Predictive Maintenance IoT & ML System",
+  "description": "Industrial IoT condition monitoring and machine-learning-assisted predictive maintenance system by Pranitha S S (KIT-CBE) with real-time temperature/vibration telemetry, threshold alerts, and Isolation Forest anomaly detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
